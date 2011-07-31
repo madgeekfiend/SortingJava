@@ -24,4 +24,5 @@ References
 ========
 
 http://en.wikipedia.org/wiki/Bubble_sort
+
 http://en.wikipedia.org/wiki/Selection_sort
